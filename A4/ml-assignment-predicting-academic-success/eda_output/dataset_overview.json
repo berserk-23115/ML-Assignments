@@ -1,0 +1,9 @@
+{
+  "input_file": "train_assignment.csv",
+  "rows": 76518,
+  "columns": 38,
+  "memory_usage_mb": 25.736,
+  "duplicate_rows": 0,
+  "duplicate_row_pct": 0.0,
+  "columns_with_missing_values": 0
+}
